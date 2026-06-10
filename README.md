@@ -1,92 +1,155 @@
-# Hi, I'm Belal Osama Salama 👋
+# 👋 Hey, I'm Belal Osama Salama
 
-### AI Student | Python Developer | C++ Programmer | Machine Learning Enthusiast
+<div align="center">
 
-<p align="center">
-  <a href="mailto:s-belal.abdelbasir@zewailcity.edu.eg">📧 Email</a> •
-  <a href="https://github.com/belal-dev710">💻 GitHub</a>
-</p>
+### 🤖 Artificial Intelligence Student
 
----
+### 💻 Python Developer | 🧠 Machine Learning Enthusiast | 🚀 Problem Solver
 
-## About Me
+📍 Egypt | 🎓 Zewail City of Science, Technology and Innovation
 
-I'm an Artificial Intelligence and Computer Engineering student at Zewail City of Science, Technology and Innovation.
-
-I am passionate about Artificial Intelligence, Machine Learning, Data Science, Software Development, and Problem Solving. I enjoy building projects that combine programming, data analysis, and intelligent systems.
-
-Currently, I am focusing on improving my skills in:
-
-* Machine Learning
-* Data Analysis
-* Python Development
-* C++ Programming
-* Software Engineering
+</div>
 
 ---
 
-## Technical Skills
+## 🚀 About Me
 
-### Programming Languages
+I'm an Artificial Intelligence and Computer Engineering student passionate about building software, exploring Machine Learning, and solving real-world problems through technology.
 
-* Python
-* C++
-* SQL
+🔹 Interested in Artificial Intelligence and Data Science
 
-### Libraries & Frameworks
+🔹 Building projects using Python and C++
 
-* Pandas
-* NumPy
-* Scikit-Learn
-* Matplotlib
-* BeautifulSoup
-* Selenium
-* NetworkX
-* Gradio
+🔹 Passionate about Problem Solving and Software Engineering
 
-### Tools
+🔹 Constantly learning new technologies and tools
 
-* Visual Studio
-* VS Code
-* Git & GitHub
-* Google Colab
-* Microsoft Excel
-* Microsoft Word
-* Cisco Packet Tracer
+🔹 Open to internships, collaborations, and learning opportunities
 
 ---
 
-## Featured Projects
+## 🛠️ Tech Stack
 
-### Movie Recommendation System
+### 💻 Programming Languages
 
-A content-based recommendation engine using Machine Learning, CountVectorizer, and Cosine Similarity.
+🐍 Python
 
-### E-Commerce Data Analysis & Visualization
+⚡ C++
 
-Web scraping, data processing, and interactive visualizations using Python.
-
-### Restaurant Management System
-
-Object-Oriented Programming project featuring authentication, menu management, and user management modules.
+🗄️ SQL
 
 ---
 
-## Education
+### 📊 Data Science & Machine Learning
 
-Zewail City of Science, Technology and Innovation
+📈 Pandas
 
-Bachelor's Degree in Artificial Intelligence and Computer Engineering
+🔢 NumPy
 
----
+🤖 Scikit-Learn
 
-## Currently Learning
+📉 Matplotlib
 
-* Machine Learning
-* Data Structures & Algorithms
-* Software Design
-* Artificial Intelligence Applications
+🕸️ NetworkX
 
 ---
 
-### Always learning, always building 🚀
+### 🌐 Development & Tools
+
+🔧 Git & GitHub
+
+💜 Visual Studio
+
+📝 VS Code
+
+☁️ Google Colab
+
+📊 Microsoft Excel
+
+🌍 Selenium
+
+🔍 BeautifulSoup
+
+🖥️ Cisco Packet Tracer
+
+---
+
+## 📂 Featured Projects
+
+### 🎬 Movie Recommendation System
+
+Built a content-based recommendation engine using Machine Learning techniques, CountVectorizer, and Cosine Similarity.
+
+### 📊 E-Commerce Data Analysis & Visualization
+
+Collected, analyzed, and visualized product data using APIs, Web Scraping, Data Analysis, and Interactive Visualizations.
+
+### 🍽️ Restaurant Management System
+
+Developed Authentication and User Management modules using C++ and Object-Oriented Programming principles.
+
+### 🔢 Digital Logic Projects
+
+⚙️ Stopwatch System
+
+🔢 Seven Segment Display
+
+🧮 Logic Calculator
+
+🐍 Python Calculator
+
+---
+
+## 🎓 Education
+
+🏛️ Zewail City of Science, Technology and Innovation
+
+📚 Artificial Intelligence & Computer Engineering
+
+---
+
+## 📖 Relevant Coursework
+
+✅ Object-Oriented Programming
+
+✅ Digital Logic & Computer Architecture
+
+✅ Computer Networks
+
+✅ Data Acquisition (ETL)
+
+✅ Knowledge Representation & Reasoning
+
+✅ Artificial Intelligence Fundamentals
+
+✅ Linear Algebra
+
+✅ Calculus for Computational Sciences
+
+---
+
+## 🎯 Current Goals
+
+🚀 Build advanced AI projects
+
+📊 Improve Data Science skills
+
+🧠 Learn Machine Learning in depth
+
+💼 Land a remote AI/Data related opportunity
+
+🌟 Contribute to impactful software projects
+
+---
+
+## 📫 Contact Me
+
+📧 [s-belal.abdelbasir@zewailcity.edu.eg](mailto:s-belal.abdelbasir@zewailcity.edu.eg)
+
+---
+
+<div align="center">
+
+### ⭐ Learning Every Day • Building Every Day • Improving Every Day ⭐
+
+</div>
